@@ -1,1 +1,2 @@
-# Web-Store
+# BookStore project
+## Saylau Almaz
